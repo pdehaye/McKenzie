@@ -1,4 +1,4 @@
-This is the case 
+This is a description of the case 
 
 **Richard McKenzie** (Prof Emeritus Economics UC Irvine)
 
@@ -14,7 +14,7 @@ vs
 
 **Does** (unknowns to be clarified later). 
 
-He is suing Koller, Matkin and the Does both in their official and individual capacity.
+McKenzie is suing Koller, Matkin and the Does both in their official and individual capacity.
 
 The file *pacer.html* offers a summary, essentially only useful for the timing information (reproduced below anyways).
 The case was filed at the Central District of California, for $230,000, case#: 8:14-cv-00149-JVS-JPR
