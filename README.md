@@ -1,4 +1,4 @@
-This is a description of the case 
+This is a description by Paul-Olivier Dehaye of the case 
 
 **Richard McKenzie** (Prof Emeritus Economics UC Irvine)
 
@@ -12,7 +12,9 @@ vs
 
 **The Regents of The University of California**,
 
-**Does** (unknowns to be clarified later). 
+**Does** (unknowns to be clarified later),
+
+based on court records available through the PACER system. 
 
 McKenzie is suing Koller, Matkin and the Does both in their official and individual capacity.
 
@@ -30,7 +32,7 @@ This taken from the original filing, *McKenzie1.pdf*. The other files are almost
 Comments
 ========
 
-The following is meant to provide a quick comment on the complaint, and a comparison with the author's personal experience with Coursera's tactics in a relatively similar situation. 
+The following is meant to provide a shorter read of the heart of the complaint, followed by a comparison with the author's personal experience of Coursera's tactics in a relatively similar situation. 
 
 The case was for $230,000, in lost intellectual property. The complainant was promised the videos he had personally produced would only be available for streaming, but were actually directly downloadable, downloaded 230,000 times, and are now on YouTube. The initial filing includes a copy of an internal whistleblower complaint filed by McKenzie with the UC Irvine. The related investigation took around 7 months, which explains the lengthy delay between the end of the course and the filing of the court complaint. The response, coming from the Associate Executive Vice Chancellor, states that:
 
