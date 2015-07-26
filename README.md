@@ -95,10 +95,12 @@ The following is an extract from the Chronicle article linked above:
 
 > Daphne Koller, one of Coursera’s founders, said by e-mail that Mr. McKenzie had not been “removed” from his role and that Coursera officials had not been in contact with the professor in recent weeks—suggesting that whatever “disagreements” led to Mr. McKenzie’s resignation had occurred at Irvine.
 
-McKenzie says he was demoted from "instructor" to "student". The quote above is very poor journalism. My speculation, based on [personal experience](https://www.insidehighered.com/news/2014/07/08/massiveteaching-mystery-captivates-confuses), is that Koller said "McKenzie was not removed from the course" (technically true), but that the journalist messed it up with his own fabrication, adding "from his role". 
+McKenzie says he was demoted from "instructor" to "student". The quote above is very poor journalism. My speculation is that Koller said "McKenzie was not removed from the course" (technically true), but that the journalist messed it up with his own fabrication, adding "from his role". 
+
+This speculation is based on [personal experience](https://www.insidehighered.com/news/2014/07/08/massiveteaching-mystery-captivates-confuses), where my instructor account on a Coursera course was also suspended. 
 
 My situation also involved building a defamation campaign based on distorted facts irrelevant to the background issue (in my case, unethical experimentation by me or the involvement of unengaged students; in McKenzie's the sale of his textbook and involvement of unengaged students). In my situation this also led to a bandwagon, with significant reputational, professional and emotional consequences.
 
 In McKenzie's case, Irvine seems like a more than willing partner to engage in the defamation (hence the conspiracy allegations). In mine I simply don't know enough, but suspect my university was actually a much weaker party. I do know that over a phone conversation with a university official, Koller cherry-picked some quotes of me out of context, misquoted me, lied, demanded immediate action and made legal threats. This led to my suspension from my own course, with no option to revert that decision.
 
-Author: Paul-Olivier Dehaye
+Author: Paul-Olivier Dehaye (paulolivier @ google's mail service )
