@@ -97,9 +97,11 @@ The following is an extract from the Chronicle article linked above:
 
 McKenzie says he was demoted from "instructor" to "student". The quote above is very poor journalism. My speculation is that Koller said "McKenzie was not removed from the course" (technically true), but that the journalist messed it up with his own fabrication, adding "from his role". 
 
-This speculation is based on [personal experience](https://www.insidehighered.com/news/2014/07/08/massiveteaching-mystery-captivates-confuses), where my instructor account on a Coursera course was also suspended. 
+This speculation is based on [personal experience](https://www.insidehighered.com/news/2014/07/08/massiveteaching-mystery-captivates-confuses), where my instructor account on a Coursera course I had developed was also suspended. 
 
-My situation also involved building a defamation campaign based on distorted facts irrelevant to the background issue (in my case, unethical experimentation by me or the involvement of unengaged students; in McKenzie's the sale of his textbook and involvement of unengaged students). In my situation this also led to a bandwagon, with significant reputational, professional and emotional consequences.
+There are of course significant differences between our two situations (I never intended to make any money out of my MOOC or the sale of anything, for instance). There are however also many similarities, especially in the tactics used by Coursera.
+
+My situation also involved building a defamation campaign based on a decoy of distorted facts irrelevant to the background issue (in my case, unethical experimentation by me or the involvement of unengaged students; in McKenzie's the sale of his textbook and involvement of unengaged students). In my situation this also led to a bandwagon of social media comments, with significant reputational, professional and emotional consequences.
 
 In McKenzie's case, Irvine seems like a more than willing partner to engage in the defamation (hence the conspiracy allegations). In mine I simply don't know enough, but suspect my university was actually a much weaker party. I do know that over a phone conversation with a university official, Koller cherry-picked some quotes of me out of context, misquoted me, lied, demanded immediate action and made legal threats. This led to my suspension from my own course, with no option to revert that decision.
 
