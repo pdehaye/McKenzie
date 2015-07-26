@@ -99,6 +99,6 @@ McKenzie says he was demoted from "instructor" to "student". The quote above is 
 
 My situation also involved building a defamation campaign based on distorted facts irrelevant to the background issue (in my case, unethical experimentation by me or the involvement of unengaged students; in McKenzie's the sale of his textbook and involvement of unengaged students). In my situation this also led to a bandwagon, with significant reputational, professional and emotional consequences.
 
-In McKenzie's case, Irvine seems like a more than willing partner to engage in the defamation (hence the conspiracy allegations). In mine I simply don't know enough, but suspect my university was strong armed into it and actually a much weaker party. I do know that Koller lied to some of my superiors, misquoted me, and cherry-picked quotes out of context. 
+In McKenzie's case, Irvine seems like a more than willing partner to engage in the defamation (hence the conspiracy allegations). In mine I simply don't know enough, but suspect my university was actually a much weaker party. I do know that over a phone conversation with a university official, Koller cherry-picked some quotes of me out of context, misquoted me, lied, demanded immediate action (over the phone) and made legal threats. This led to my suspension from my own course, with no option to revert that decision.
 
 Author: Paul-Olivier Dehaye
